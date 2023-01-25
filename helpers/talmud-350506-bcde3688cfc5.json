@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "talmud-350506",
+  "private_key_id": "bcde3688cfc5a56940be5647725506f8451d41f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8XPqhTtB6PaQt\nQjbhja2xZ9xMJGkZ2FclZzBPF/chlMf8iAdk8UzCNtobLxHSrwOOC+JabvDqknbb\nYhWDNg/0cdnSatvzvykNVgLBlF6NlKFjstkH0T+ZmXrgW4omVk5LOrrZ4DqOGtFg\ndPGdD8oivM4YClrfEQ7eG/4n81r8982aI7+IVeciqFuc3uZn8jqERq4pufKccOWZ\nabdY1A9bJNhc+hNPlJpWD9AdCQsVK81f3T/ClhpEzMWvqdL17aiKFtCg+V0vWsPo\nJR0i8PeO5UXEL6zV6vlEPJ8Ugp4nH7tMufohNU0MnWN+abS2mrIFAYFfyG4NqVR+\nh6GtSV4lAgMBAAECggEADaJOmIXDkfrg5aRo+TMvwwCOhzW3ecxupQwZXhA7rhg+\netPpx8UDgPycFY2hpPX6tDm9/Oe808Mdi/bx3FkkbIAf0RrfqClKXRHAX1H69L/b\nsq4LsYTULVeuTOEIrd+0s732L7ZgO/r1nsgNg7Mp4WZ4exr8xYVO5drG2bjD+ZK3\nc+rKpSoq+gjp0OAVaPs+8qllZW7aKN2B6oVMiGHwwG6mMRmxXTQqmwnjHvcSKWgY\nV9nsivzJZUlUWlvXF5h6T52ORiMaqhVYT0AUr8zW8mZEGCLeFDtCknqUpWy1Sw67\nWlh5PRH8VfSHNACDsfz9MCoGEY/1PkE/+px7ZqZ1vQKBgQD7ve966rdcrihx8V+u\nSEty9tKeel0dN3ILSG9wm8dyE6iO2xapBPdewPsBGin2f2+B4i3PwTOAe6U+oIBJ\nPcI7UTU/SqKniK97oGgCwoyHdXWmi/fF5YL9pl7Y1tSqL+E6b2WHwoO5hxUTm9yw\n/PB3ysQ2/bCzrr4A7s+3hnj9lwKBgQC/jJusgQJRT7fiYLj3V5Rc2O8n+q/NZ5qY\nMAdC7IznaMwbLnZJl92pSRsGMO48+u1dNoG+EGNag83WHohHdfUtW0h4XgR+N5ZN\n17f/YbHynShAV6o+9BNbD9XxRSTNiUI5ERNHBfXXF1JkCjavJnqVVT9PjOMH8gYZ\naSlMSroxowKBgQDIi9IpGK1EbxWXWBPCMqOwjULSr2ZYbSA0LttgWSl1DoYccBrI\nQUWTvab4hNBjJ7g8P2QBesc9lsLYdmJcdo+yU4pYxmt3jaNGmE3jzPrIuuEj8aNM\niv9kdFJg6hv3DDegJrg6g9IOTbeTrHoOoSIsPGM977ICIrYI5jah3MWsNwKBgAs8\nMBVaK8yhJGP+0FqRpH4dq0lpBs7BeOvcRVDDlzArkW02uHFwmuvHAfLHA/JHtYx2\nGf4P8APrHzOj7tJiNNNIO2Pz/8d3czV1pbExBcL5PNcpTS8MGeaJcz8HkzULC/tU\n6RCNZPIMyCReBP8Y/q+rpF8CIH7iz0DGTknPSESJAoGAFuG2n+ZVmSqXD8XtVay+\nF/Uu7applwUjXE6X1d2qbjCj2/1MTAq78bBs/T11PV3bVKZJEhf//ReCwZ3d+/4T\n8Wq6I7O7PQseb3B+QXH1qw4eMoNkIIjn1OKENzzFNeqmUpHkIy48tVRMZTY2LlLd\n8mwiyW08Cl3hVxal9bXdUUM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "talmud@talmud-350506.iam.gserviceaccount.com",
+  "client_id": "110398912163754855390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talmud%40talmud-350506.iam.gserviceaccount.com"
+}
